@@ -1,0 +1,13 @@
+GamePanel
+
+//godmode do testoania oryginalenie // false
+player.setPlaying(true);
+
+
+Player
+//dy 0 dla testowania /// oryginalnie 1
+if(up){
+    dy -=0;
+} else {
+    dy +=0;
+}
